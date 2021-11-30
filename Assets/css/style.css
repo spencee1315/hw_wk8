@@ -35,3 +35,12 @@ h1 {
     width: 100%;
     max-width: none;
 }
+
+.content-title {
+    font-size: 20px;
+    color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-bottom: 2px solid #cccccc;
+    margin: 10px;
+}
