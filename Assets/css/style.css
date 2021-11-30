@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/valentin-salja-CLvkkjb-i3g-unsplash.jpg");
+    background-image: url("../images/noita-digital-zcx5ztIjQAM-unsplash.jpg");
 }
 
 iframe {
@@ -22,11 +22,11 @@ iframe {
 
 h1 {
     font-size: 24px;
-    color: black;
+    color: whitesmoke;
 }
 
 .nav-link {
-    color: sandybrown;
+    color: salmon;
 }
 
 .content-container {
@@ -38,7 +38,7 @@ h1 {
 
 .content-title {
     font-size: 20px;
-    color: burlywood;
+    color: salmon;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     border-bottom: 2px solid #cccccc;
