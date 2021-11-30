@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/valentin-salja-CLvkkjb-i3g-unsplash.jpg");
+}
+
+iframe {
+    max-width: 100%;
+}
+
+.navbar {
+    background-color: snow;
+}
+
+.navbar-container {
+    max-width: none;
+}
+
+.navbar-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
