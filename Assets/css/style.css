@@ -62,3 +62,7 @@ h1 {
     margin: 0px;
     padding: 0px;
 }
+
+.portfolio-pic {
+    max-width: 100%;
+}
