@@ -15,7 +15,7 @@ I excel both as an individual and team environments and with a unique background
 
 ## Link to Site GitHub Repo
 
-[Click here to visit my Porfolio](https://tech-blog-mvc-uwcodingbootcamp.herokuapp.com/)
+[Click here to visit my updated Porfolio](https://spencee1315.github.io/hw_wk8/projects.html)
 
 
 ## License 
